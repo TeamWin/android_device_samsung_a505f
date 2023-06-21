@@ -15,6 +15,7 @@
 #
 
 DEVICE_PATH := device/samsung/a505f
+ALLOW_MISSING_DEPENDENCIES := true
 
 # Architecture
 TARGET_ARCH := arm64
